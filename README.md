@@ -1,2 +1,2 @@
 # MyReactFinal
-Samsun Üniversitesi Grafik Arayüz Tasarım Final Projesi -Hakan KOÇO
+Samsun Üniversitesi Grafik Arayüz Tasarım Final React Projesi -Hakan KOÇO
